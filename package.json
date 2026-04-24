@@ -1,0 +1,11 @@
+{
+  "name": "zetsu-pair",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/pair.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9"
+  }
+}
